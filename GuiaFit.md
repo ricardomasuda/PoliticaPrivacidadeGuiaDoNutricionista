@@ -1,5 +1,31 @@
 # Política de Privacidade do GuiaFit
 
+Última atualização: 6 de setembro de 2026.
+
+## Resumo das práticas de dados
+
+O GuiaFit coleta os dados necessários para criar e manter a conta do Usuário e
+entregar as funcionalidades de acompanhamento nutricional e físico. Esses dados
+podem incluir nome, endereço de e-mail, CPF informado para ativação, identificadores
+de conta e dispositivo, token de notificações, fotos adicionadas pelo Usuário,
+localização registrada em treinos e dados de saúde, atividade e condicionamento
+físico, como peso, altura, frequência cardíaca, passos, calorias, distância,
+hidratação, refeições e treinos.
+
+Os dados são usados exclusivamente para funcionamento do aplicativo, sincronização
+entre dispositivos, gestão da conta, notificações solicitadas pelo Usuário, suporte,
+segurança e diagnóstico de falhas. O GuiaFit não vende dados pessoais nem os usa
+para publicidade comportamental.
+
+Para prestar esses serviços, o aplicativo utiliza provedores técnicos como Firebase
+(autenticação e notificações) e Sentry (diagnóstico de falhas). As transmissões entre
+o aplicativo e os serviços são protegidas por HTTPS.
+
+## Exclusão de conta e dados
+
+O Usuário pode solicitar a exclusão da conta e dos dados pessoais seguindo as
+instruções em [Solicitar exclusão de conta do GuiaFit](./exclusao-conta-guiafit.md).
+
 Para receber informações sobre os seus dados pessoais, os propósitos e as partes de informação que são compartilhadas, entre em contato com o Proprietário.
 
 Proprietário e Controlador de Dados
