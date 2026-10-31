@@ -1,7 +1,7 @@
 # Política de Privacidade do NutriChef Idle
 
-Atualizada em 30 de outubro de 2026.
-Aplicativo Android: com.guiafit.nutrichefidle
+Atualizada em 31 de outubro de 2026.
+Aplicativo Android e iOS (package/bundle ID): com.guiafit.nutrichefidle
 
 O responsável pelo NutriChef Idle e pelo atendimento de solicitações relacionadas ao jogo é Ricardo Masuda. Para suporte e privacidade, entre em contato pelo endereço mricardo1611@gmail.com, identificando o aplicativo como NutriChef Idle. Esta política se refere ao jogo; ela não é a política de outros aplicativos do desenvolvedor.
 
@@ -15,20 +15,21 @@ O jogo armazena no dispositivo o progresso, moedas e gemas virtuais, melhorias, 
 
 O aplicativo integra Google Mobile Ads (AdMob) e a User Messaging Platform (UMP). Os anúncios recompensados são opcionais: é possível continuar jogando sem assistir a vídeos. Quando exigido pelo serviço, o Google apresenta opções de privacidade e consentimento. O código do jogo condiciona as solicitações de anúncios à resposta do serviço de consentimento. Quando o serviço de consentimento permite solicitar anúncios, o aplicativo inicializa o SDK e pode carregar um vídeo antes de você escolher assisti-lo. Isso não representa uma promessa de ausência absoluta de atividade dos componentes nativos.
 
-Conforme a documentação do Google Mobile Ads SDK, o serviço pode coletar e compartilhar endereço IP, localização aproximada inferida desse endereço, interações com o aplicativo e anúncios (como inicializações, toques e visualizações de vídeo), informações de diagnóstico e desempenho, além de identificadores de dispositivo ou outros identificadores, como ID de publicidade e app set ID. As finalidades incluem publicidade, análise de uso e desempenho, segurança e prevenção de fraude. O jogo utiliza unidades de anúncios do desenvolvedor; a disponibilidade dos anúncios depende do Google e das configurações da conta.
+Conforme a documentação do Google Mobile Ads SDK, o serviço pode coletar e compartilhar endereço IP, localização aproximada inferida desse endereço, interações com o aplicativo e anúncios (como inicializações, toques e visualizações de vídeo), informações de diagnóstico e desempenho, além de identificadores de dispositivo ou outros identificadores, como ID de publicidade e app set ID no Android, ou identificadores do dispositivo, aplicativo e desenvolvedor no iOS. O serviço também pode tratar dados sobre os anúncios exibidos. As finalidades incluem publicidade, análise de uso e desempenho, segurança e prevenção de fraude. O jogo utiliza unidades de anúncios do desenvolvedor; a disponibilidade dos anúncios depende do Google e das configurações da conta.
 
 Esses dados são tratados pelo Google e seus prestadores nos termos das políticas do serviço. Podem ser processados em servidores fora do Brasil. Segundo o fornecedor, os dados coletados pelo Google Mobile Ads SDK são criptografados em trânsito por TLS. O aplicativo não solicita acesso à câmera, microfone, contatos ou localização precisa para a jogabilidade.
 
 Consulte:
 Política de Privacidade do Google: https://policies.google.com/privacy
 Como o Google usa dados de serviços parceiros: https://policies.google.com/technologies/partner-sites
-Divulgação de dados do Google Mobile Ads: https://developers.google.com/admob/android/privacy/play-data-disclosure
+Divulgação de dados do Google Mobile Ads (Android): https://developers.google.com/admob/android/privacy/play-data-disclosure
+Divulgação de dados do Google Mobile Ads (iOS): https://developers.google.com/admob/ios/privacy/data-disclosure
 
 ## Suas escolhas e público-alvo
 
 O jogo é destinado a pessoas de 13 anos ou mais e não é direcionado a crianças menores de 13 anos. A classificação indicativa da loja descreve o conteúdo do jogo e pode ser diferente do público-alvo definido para o serviço.
 
-Você pode continuar sem anúncios. Quando exigida pelo Google, a opção de privacidade dos anúncios também aparece nas configurações. É possível gerenciar o ID de publicidade nos ajustes do Android. Mudar uma preferência não apaga automaticamente dados já tratados por terceiros.
+Você pode continuar sem anúncios. Quando exigida pelo Google, a opção de privacidade dos anúncios também aparece nas configurações. É possível gerenciar o ID de publicidade nos ajustes do Android e as opções de privacidade disponíveis nos ajustes do iOS. A versão iOS atual não apresenta uma solicitação de permissão App Tracking Transparency (ATT); o consentimento UMP é um controle distinto e não substitui essa permissão do sistema. Mudar uma preferência não apaga automaticamente dados já tratados por terceiros.
 
 ## Uso, armazenamento e direitos
 
@@ -36,7 +37,7 @@ Se você escrever ao suporte, receberemos o endereço de e-mail e o conteúdo qu
 
 O progresso permanece no dispositivo enquanto os dados do aplicativo forem mantidos. A retenção de dados tratados pelos serviços Google segue as políticas e controles desses serviços; não é definida pelo arquivo de progresso do jogo. Podemos compartilhar informações de suporte quando necessário para cumprir uma obrigação legal ou exercer direitos, respeitando os limites aplicáveis.
 
-Você pode solicitar informações sobre o tratamento de seus dados e exercer os direitos aplicáveis, incluindo acesso, correção e exclusão, pelo e-mail mricardo1611@gmail.com. Descreva o pedido sem enviar dados excessivos. Podemos solicitar apenas as informações necessárias para verificar e atender a solicitação. Dados locais podem ser apagados nos ajustes do Android; essa ação pode eliminar o progresso. Como não há conta de jogador nem sincronização própria, não mantemos uma cópia central do progresso para excluir ou restaurar.
+Você pode solicitar informações sobre o tratamento de seus dados e exercer os direitos aplicáveis, incluindo acesso, correção e exclusão, pelo e-mail mricardo1611@gmail.com. Descreva o pedido sem enviar dados excessivos. Podemos solicitar apenas as informações necessárias para verificar e atender a solicitação. Dados locais podem ser apagados pelos controles de armazenamento e remoção do aplicativo no Android e no iOS; essa ação pode eliminar o progresso. Como não há conta de jogador nem sincronização própria, não mantemos uma cópia central do progresso para excluir ou restaurar.
 
 Para dados sob controle independente do Google, use também os mecanismos de privacidade do fornecedor. Não garantimos a exclusão de dados que não controlamos. Adotamos medidas técnicas compatíveis com o funcionamento do jogo, incluindo isolamento dos arquivos pelo sistema operacional e uso dos canais protegidos dos serviços integrados. Nenhum sistema oferece segurança absoluta.
 
